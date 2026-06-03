@@ -46,4 +46,5 @@ I use Python's embeddable distribution as the foundation and bootstrap everythin
 
 ---
 
-*Built with [Claude Code](https://claude.ai/claude-code) as my AI pair programmer.*
+<img width="1080" height="360" alt="image" src="https://github.com/user-attachments/assets/9cbb1f83-9953-4e4a-8ab1-8d928f335ed9" />
+
